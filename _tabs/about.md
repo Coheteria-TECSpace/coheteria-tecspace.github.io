@@ -1,8 +1,6 @@
 ---
-title: About
+title: Acerca de
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+   <div align="center"><img src="../images/acercade.png" alt="pagina_web" style="width:30rem;" align="middle"/></div>
