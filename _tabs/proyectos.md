@@ -35,14 +35,15 @@ Estos se encuentran divididos de acuerdo a la sección a la cual pertenecen.
     <div align="center"><img src="../images/Payload.png" alt="pagina_web" style="width:30rem;" align="middle"/></div>
     <br>
     <a href="https://gogetfunding.com/help-tecspace-make-miravalles-i-mission-a-reality/">Hagamos del Miravalles I una REALIDAD:</a>
+    <br>
 </details>
 
 <details>
-    <summary>Librería de Diseño TSEL</summary>
+    <summary>Librería de Diseño TREL</summary>
     <br>
     <ul><b>Información General del Proyecto:</b>
     <div style="text-align: justify">
-     <li>Librería (library para programación) enfocada en facilitar el proceso de cálculos para diseñar motores de propelente sólido para cohetes, permitiendo así variaciones a parámetros que se ven reflejados en los resultados de rendimiento teórico para el motor, se puede encontrar el código fuente en <a href="https://github.com/Coheteria-TECSpace/TSEL">GitHub.</a></li></div>
+     <li>Librería (library para programación) enfocada en facilitar el proceso de cálculos para diseñar motores de propelente sólido para cohetes, permitiendo así variaciones a parámetros que se ven reflejados en los resultados de rendimiento teórico para el motor, se puede encontrar el código fuente en <a href="https://github.com/Coheteria-TECSpace/TREL">GitHub.</a></li></div>
     </ul>
     <ul><b>Habilidades Utilizadas:</b>
         <li>Programación en el lenguaje C (ANSI C99).</li>
@@ -60,7 +61,7 @@ Estos se encuentran divididos de acuerdo a la sección a la cual pertenecen.
     <br>
     <ul><b>Información General del Proyecto:</b>
     <div style="text-align: justify">
-     <li>Página simple que permite mostrar información general sobre el grupo, e información sobre proyectos tanto de cohetería como de sistemas espaciales, se puede encontrar el código fuente en <a href="https://github.com/Coheteria-TECSpace/coheteria-tecspace github.io">GitHub.</a></li></div>
+     <li>Página simple que permite mostrar información general sobre el grupo, e información sobre proyectos tanto de cohetería como de sistemas espaciales, se puede encontrar el código fuente en <a href="https://github.com/Coheteria-TECSpace/coheteria-tecspace.github.io">GitHub.</a></li></div>
     </ul>
     <ul><b>Habilidades Utilizadas:</b>
         <li>Programación en lenguaje Markdown.</li>
@@ -95,7 +96,6 @@ Estos se encuentran divididos de acuerdo a la sección a la cual pertenecen.
      <li>Consideración de procedimientos legales marítimos.</li>
      <li>Análisis de estabilidad y flotabilidad.</li>
      <li>Diseño electrónico.</li>
-     <li>Resistencia de materiales.</li>
      <li>Resistencia de materiales.</li>
      <li>Mejora continua.</li>
     </ul>
